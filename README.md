@@ -1,3 +1,6 @@
+I no longer use Dropbox due to recent TOS and service changes Dropbox has decided to take so there will be no further maintainence to this docker unless those are changed.
+
+
 # Dropbox in Docker
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/smokex365/docker-dropbox-ext4.svg?maxAge=2592000)
