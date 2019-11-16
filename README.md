@@ -1,5 +1,4 @@
-I no longer use Dropbox due to recent TOS and service changes Dropbox has decided to take so there will be no further maintainence to this docker unless those are changed.
-
+I have updated this to work with dropbox.
 
 # Dropbox in Docker
 
